@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "preinstall": "npm install -g vite",
-    "start":"npm run dev",
+    "start": "npm run dev",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "install": "npm install"  // Added install script
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
