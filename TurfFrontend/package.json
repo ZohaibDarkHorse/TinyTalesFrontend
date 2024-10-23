@@ -10,7 +10,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "install": "npm install"  // Added install script
+    "install": "npm install"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
